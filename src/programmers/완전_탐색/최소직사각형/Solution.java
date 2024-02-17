@@ -1,6 +1,5 @@
 package programmers.완전_탐색.최소직사각형;
 
-// [[14, 4], [19, 6], [6, 16], [18, 7], [7, 11]]
 class Solution {
     public int solution(int[][] sizes) {
         int result1 = 0;
