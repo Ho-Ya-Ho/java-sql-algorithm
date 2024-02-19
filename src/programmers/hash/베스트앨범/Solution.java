@@ -1,7 +1,7 @@
 package programmers.hash.베스트앨범;
 
 import java.util.*;
-import java.util.stream.Collectors;
+import java.util.stream.*;
 
 class Solution {
     public int[] solution(String[] genres, int[] plays) {
